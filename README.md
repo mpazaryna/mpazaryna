@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about zettelkasten.
 - 💞️ I’m looking to collaborate on exciting projects.
 - 📫 You can reach me at mpazbot@gmail.com
+- My [digital garden](https://publish.obsidian.md/paz/Welcome)
 
 <!---
 mpazaryna/mpazaryna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
