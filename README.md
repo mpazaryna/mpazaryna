@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mpazaryna
 - 👀 I’m interested in cloud first application development.
-- 🌱 I’m currently learning about zettelkasten.
-- 💞️ I’m looking to collaborate on exciting projects.
+- 🌱 I’m currently learning about zettelkasten and very committed to using Obsidian on a daily basis.
 - 📫 You can reach me at mpazbot@gmail.com
 
 <!---
