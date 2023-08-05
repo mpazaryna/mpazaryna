@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mpazaryna
-- 👀 I’m interested in cloud first application development.
+- 👀 I’m interested in building ai enabled applications.
 - 🌱 I’m interested in personal knowledge management and use Obsidian on a daily basis.
 - 📫 You can find me at https://indieweb.social/@paz 
 
